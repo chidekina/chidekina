@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Cesar Hideki Nagano
-## **Estudante ADS | Lider de Comunidade**
+## **Desenvolvedor FullStack | Professor | Lider de Comunidade**
 
 Saudações,<br/>
 🧠 Sou uma pessoa fascinada por aprender coisas novas e enfrentar novos desafios, mas sempre determinado e comprometido com o que eu busco. <br/>
